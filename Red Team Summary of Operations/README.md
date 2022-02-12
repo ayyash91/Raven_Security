@@ -69,7 +69,7 @@ Command used for flag2:
  
 * `cat /var/www/flag2.txt`
 
-
+![flag2](https://user-images.githubusercontent.com/69011745/153727072-1bceb9f7-c7b0-4404-bfe3-df89c5c33950.png)
 
 ## Lateral Movement: 
 With Michael's credentials we were able to navigate through the file system of the target machine and revealed the root username and password for MySQL database.
