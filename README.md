@@ -8,7 +8,7 @@
 
 ## <strong>Tools Used in The Project </strong>: 
 
-Kali Linux | nmap | dirb | wpscan | john | Python | nikto | gobuster | searchsploit | netcat (nc) | Kibana | Network Traffic Analysis | System Hardening | Wireshark | Packet Analysis 
+Kali Linux | Nmap | dirb | wpscan | john | Python | nikto | gobuster | searchsploit | netcat (nc) | Kibana | Network Traffic Analysis | System Hardening | Wireshark | Packet Analysis 
 
 
 ## <strong>Network Topology <strong>:
