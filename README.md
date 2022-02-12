@@ -3,12 +3,18 @@
 
 ## <strong><bold>Summary:</bold></strong>
 
+* Attack, Defense & Analysis of a Vulnerable Network
 
+* Attacking Two Vulnerable Web application server 
+
+* Create multiply alerts on kibana to detect different type of attacks
+
+* Use Wireshark for packet analysis and gather infomation about the network 
 
 
 ## <strong>Tools Used in The Project </strong>: 
 
-Kali Linux | Nmap | dirb | wpscan | john | Python | nikto | gobuster | searchsploit | netcat (nc) | Kibana | Network Traffic Analysis | System Hardening | Wireshark | Packet Analysis 
+Kali Linux | Nmap | dirb | wpscan | john | Python | nikto | gobuster | searchsploit | netcat (nc) | Kibana | Network Traffic Analysis | System Hardening | Wireshark | Packet Analysis | Virustotal 
 
 
 ## <strong>Network Topology <strong>:
