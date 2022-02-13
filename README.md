@@ -9,6 +9,8 @@
 
 * Create multiply alerts on kibana to detect different type of attacks
 
+* System Hardening and Patching
+
 * Use Wireshark for packet analysis and gather infomation about the network 
 
 
