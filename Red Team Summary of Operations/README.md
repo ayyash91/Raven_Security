@@ -1,7 +1,7 @@
-# Reven_Security
 
 
-## Red Team: Summary of Operations
+
+# Red Team: Summary of Operations
 Table of Contents:
 
 * Reconnaissance Phase
