@@ -7,7 +7,7 @@
 
 * Attacking Two Vulnerable Web application server 
 
-* Create multiply alerts on kibana to detect different typez of attacks
+* Create multiply alerts on kibana to detect different types of attacks
 
 * System Hardening and Patching
 
