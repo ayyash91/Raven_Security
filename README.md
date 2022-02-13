@@ -7,11 +7,11 @@
 
 * Attacking Two Vulnerable Web application server 
 
-* Create multiply alerts on kibana to detect different type of attacks
+* Create multiply alerts on kibana to detect different typez of attacks
 
 * System Hardening and Patching
 
-* Use Wireshark for packet analysis and gather infomation about the network 
+* Use Wireshark for packet analysis and gather information about the network 
 
 
 ## <strong>Tools Used in The Project </strong>: 
